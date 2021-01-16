@@ -2,7 +2,7 @@
 <center>
 
 <p align="center">
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mental-block&show_icons=true&theme=default&count_private=true&title_color=18CAE6&icon_color=18CAE6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mental-block&show_icons=true&theme=default&count_private=true&title_color=18CAE6&icon_color=18CAE6&hide_border=true" alt="Mental-Block" />
 </p>
 
 <p align="center">
