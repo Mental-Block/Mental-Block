@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mental-     block&layout=compact&hide_border=true&title_color=18CAE6" alt="Mental-Block" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mental-block&layout=compact&hide_border=true&title_color=18CAE6" alt="Mental-Block" />
 </p>
 
 </center>
